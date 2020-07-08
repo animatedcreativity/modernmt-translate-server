@@ -1,6 +1,6 @@
 {
   "name": "modernmt-translate-server",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Server for text translations using ModernMT. Translations are stored in a database for future usage to save costs.",
   "main": "main.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "express-formidable": "^1.2.0",
-    "modernmt-translate": "^0.0.3",
+    "modernmt-translate": "^0.0.4",
     "node-promise-wrapper": "^0.0.2",
     "pouchdb": "^7.0.0",
     "pouchdb-find": "^7.0.0",
